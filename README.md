@@ -127,10 +127,12 @@ S3는 프론트엔드를 담당한 팀원들이 빌드한 정적페이지를 호
 
 ## 결과
 ![](https://i.imgur.com/7rKbsSm.png)  
-![](https://i.imgur.com/AT8FF40.png)
+![](https://i.imgur.com/AT8FF40.png)  
 봇과 채팅채널을 통해서 휴가를 등록, 삭제, 조회할 수 있습니다.  
 ![](https://i.imgur.com/kpcfUUS.png)
 ![](https://i.imgur.com/1PEV4Xa.png)
 
-캘린더 소스코드는 팀원 신다정님 깃에 업로드 되어있습니다.  
+~~캘린더 소스코드는 팀원 신다정님 깃에 업로드 되어있습니다.  
 https://github.com/ShinDajeong/calendar 
+내리셨습니다.~~
+
