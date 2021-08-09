@@ -132,6 +132,7 @@ S3는 프론트엔드를 담당한 팀원들이 빌드한 정적페이지를 호
 ![](https://i.imgur.com/kpcfUUS.png)
 ![](https://i.imgur.com/1PEV4Xa.png)
 
-캘린더 소스코드는 팀원 신다정님 깃에 업로드 되어있습니다.  
+캘린더 소스코드는 신다정님 깃에 업로드 되어있습니다.  
 https://github.com/ShinDajeong/calendar  
-
+휴가봇 소스코드는 이원찬남 깃에 업로드 되어있습니다.  
+https://github.com/chany219/VacaForm  
